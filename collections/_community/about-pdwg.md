@@ -35,7 +35,7 @@ We also frequently use [EasyRetro](https://easyretro.io) as a feedback tool for 
 
 ## List of institutions and people involved
 
-Since 2020, PDWG has engaged close to 200 individuals from over 50 institutions. Participants vary in their engagement levels and come from a wide range of institutions, including independent museums, university collections, and representatives from US federal agencies. Current members of this group are largely based in the United States, but international members are very welcome. Active PDWG members who wish to be acknowledged are listed in the table below. If you should be added to this list, or your affiliation should be updated, please let us know by emailing _paleodatawg@gmail.com_!
+Since 2026, GeoFAIR has engaged close to [X] individuals from over [X] institutions and [X] countries. Participants vary in their engagement levels and come from a wide range of organizations, including universities, data repositories, national and international collaborative initiatives such as the UN Ocean Decade. Current members of this group are largely based in the United States, but international members are very welcome. Active PDWG members who wish to be acknowledged are listed in the table below. If you should be added to this list, or your affiliation should be updated, please let us know by emailing _paleodatawg@gmail.com_!
 
 | Affiliation | Active GeoFAIR Oceans Member(s) |
 | - | - |
