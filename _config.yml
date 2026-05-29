@@ -4,9 +4,9 @@ repository: Geo-FAIR/oceans
 url: https://geo-fair.github.io
 baseurl: /oceans
 theme: minimal-mistakes-jekyll
-logo: /assets/images/geofair-2.png
+logo: /assets/images/geofair-oceans.png
 logo_alt: GeoFAIR Oceans logo
-og_image: /assets/images/geofair-2.png
+og_image: /assets/images/geofair-oceans.png
 exclude: [scripts, templates]
 footer:
   links:
