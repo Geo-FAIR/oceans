@@ -3,7 +3,7 @@ title: Paleo Data Knowledge Hub
 layout: splash
 header:
   overlay_image: /assets/images/geofair-ocean-header.jpg
-    overlay_filter: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3))
+  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3))
   caption: "Christian Palmer / Unsplash"
   #actions:
   #  - label: "More Info"
