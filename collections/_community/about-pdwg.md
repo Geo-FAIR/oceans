@@ -1,16 +1,16 @@
 ---
-title: About PDWG
-description: This page describes what the Paleo Data Working Group is, who is involved, and how you can get involved.
+title: About the GeoFAIR Ocean Community
+description: This page describes what the GeoFAIR Ocean Community is, who is involved, and how you can get involved.
 status: published
-contributors: [Erica Krimmel, Talia Karim, Lindsay Walker]
-last_modified_at: 2026-02-19
+contributors: [Danie Kinkade, Natalie Raia, Shelley Stall]
+last_modified_at: 2026-05-29
 ---
 
-This website is brought to you by the Paleo Data Working Group (PDWG, pronounced "pidwig"), which is a community of practice centered around collections-based paleo and informatics professionals. PDWG was launched in May 2020 as a driving force for broader conversations about paleontological data standards and integration of fossil data into larger data ecosystems. We formed as a result of a decade of increasing collaboration between paleontology professionals digitizing their collections, including as part of an earlier [Paleo Digitization Working Group](https://www.idigbio.org/wiki/index.php/Paleo_Digitization_Working_Group) hosted by iDigBio. Current activities include regular "[happy hour](/community/pdwg-happy-hours)" meetings, [workshops](/community/events), community outreach, and engagement with parallel groups and processes. We also maintain a community pipeline for carrying conversation through to documentation and guidelines, such as the content curated in this knowledge hub.
+This website is brought to you by the GeoFAIR Oceans Community, which is a community of practice centered around ocean science researchers, editors, and data infrastructure professionals. The GeoFAIR Ocean Community was launched in June 2026 as a community-vetted resource for data and digital object management best practices. We also maintain a community pipeline for carrying conversation through to documentation and guidelines, such as the content curated in this knowledge hub. We are grateful to the Paleo Data Working Group for their efforts to build and create the base Github repository upon which this GeoFAIR repository was forked.
 
 ## Organization
 
-PDWG strives for low organizational overhead. That said, the following groups keep this community alive and functioning. See who belongs to each group in the list of people involved, below.
+The GeoFAIR Ocean Community strives for low organizational overhead. That said, the following groups keep this community alive and functioning. See who belongs to each group in the list of people involved, below.
 
 The **Organizing Team** is composed of 3-5 members who volunteer to commit to leading the working group for at least a year and who meet regularly (approximately monthly). This group sets the vision and strategy for PDWG. They also coordinate and host [happy hours](/community/pdwg-happy-hours), and manage access to shared communication platforms including the Google Group, Slack Workspace, and Google Drive. Contact the Organizing Team at _paleodatawg@gmail.com_.
 
