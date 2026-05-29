@@ -1,5 +1,5 @@
 ---
-title: Paleo Data Knowledge Hub
+title: GeoFAIR Oceans Community Data Knowledge Hub
 layout: splash
 header:
   overlay_image: /assets/images/geofair-ocean-header.jpg
