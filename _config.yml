@@ -1,8 +1,8 @@
 title: GeoFAIR Ocean Community
 description: A clearinghouse for information and resources for the GeoFAIR ocean community. 
 repository: Geo-FAIR/oceans
-url: https://geo-FAIR.oceans.github.io
-baseurl: https://geo-FAIR.github.io
+url: https://geo-fair.github.io
+baseurl: /oceans
 theme: minimal-mistakes-jekyll
 logo: /assets/images/trilocorn.png
 logo_alt: A trilobite with a unicorn horn and ears
