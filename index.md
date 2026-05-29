@@ -71,4 +71,4 @@ This website is hub designed to enable open access to information for anyone pro
   {% endif %}
 
 {% include feature_row %}
-{% comment %}
+{% endcomment %}
