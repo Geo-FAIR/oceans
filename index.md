@@ -69,6 +69,5 @@ This website is hub designed to enable open access to information for anyone pro
       <p>Happy Hours are biweekly meetings of the Paleo Data Working Group that take place every other Thursday at 12:00pm Eastern Time.   Please see the <a href="{{ '/community/pdwg-happy-hours' | relative_url }}">happy hour page</a> for details about how to attend.</p>
     </div>
   {% endif %}
-
-{% include feature_row %}
 {% endcomment %}
+{% include feature_row %}
