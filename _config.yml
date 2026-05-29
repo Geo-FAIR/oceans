@@ -1,8 +1,8 @@
-title: Paleo Data Knowledge Hub
-description: A clearinghouse for information about data related to paleontology specimens and collections
-repository: paleo-data/paleo-data.github.io
-url: https://paleo-data.github.io
-baseurl: 
+title: GeoFAIR Ocean Community
+description: A clearinghouse for information and resources for the GeoFAIR ocean community. 
+repository: Geo-FAIR/oceans
+url: https://geo-FAIR.oceans.github.io
+baseurl: https://geo-FAIR.github.io
 theme: minimal-mistakes-jekyll
 logo: /assets/images/trilocorn.png
 logo_alt: A trilobite with a unicorn horn and ears
