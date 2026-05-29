@@ -31,19 +31,13 @@ As a community of practice, we regularly use the following tools:
 
 - **Google Groups**: We use Google Groups as a listserv where we post announcements about upcoming happy hours, workshops, or other events of interest. [Request to join the Google Group here](https://groups.google.com/g/paleo-data/about). Due to several instances of spam, only members with permission can post to the Group. Please ask if you would like permission. We have received feedback that not everyone can use Google Groups with their work emails, which can be annoying; until/unless we move to a different mailing list platform, the solution is to subscribe with a separate or additional email.
 
-- **Google Drive**: Our [shared folder on Google Drive](https://drive.google.com/drive/folders/1Ne9B1bIGGzGhreEHMxoCVEwPaIhIILVx?usp=sharing) is a neutral, non-institutional space where community members can curate and manage access to collaborative working documents and resources that do not fit well (or yet) on this knowledge hub. Happy hour meeting materials live within this Google folder. Please request access if you think you should be enabled to edit files in this folder!
-
-- **Slack**: Our primary tool for asynchronous conversation between individual community members and interest groups within the PDWG community. [To join the Slack workspace click here](https://join.slack.com/t/paleo-data/shared_invite/zt-1nt02uuds-Yp40SwjPaHYSmwam1q3rZg). If you are unfamiliar with Slack, see this [3-minute video overview](https://vimeo.com/434234678) of how to use it up for the Paleo Data workspace. Ours is a free Slack workspace, which means messages are only accessible for a 90-day history.
-
-- **Zoom**: We host happy hour and other synchronous meetings on [Zoom](https://www.zoom.com), and occasionally use Zoom's built-in collaboration tools like Whiteboard. Look for a link to the happy hour Zoom room in announcements posted to the Google Group and Slack.
-
 We also frequently use [EasyRetro](https://easyretro.io) as a feedback tool for community activities, either synchronous or asynchronous, and [Zenodo](https://zenodo.org/) is an essential tool for contributing individual/institutional expertise to this knowledge hub–learn more about that in our [contributor guidelines]().
 
 ## List of institutions and people involved
 
 Since 2020, PDWG has engaged close to 200 individuals from over 50 institutions. Participants vary in their engagement levels and come from a wide range of institutions, including independent museums, university collections, and representatives from US federal agencies. Current members of this group are largely based in the United States, but international members are very welcome. Active PDWG members who wish to be acknowledged are listed in the table below. If you should be added to this list, or your affiliation should be updated, please let us know by emailing _paleodatawg@gmail.com_!
 
-| Affiliation | Active PDWG Member(s) |
+| Affiliation | Active GeoFAIR Oceans Member(s) |
 | - | - |
 | Academy of Natural Sciences of Drexel University (ANSP) | [Alejandra Martinez-Melo](https://orcid.org/0000-0003-2314-689X) |
 | independent | [Ben Norton](https://orcid.org/0000-0002-5819-9134), [Erica Krimmel](https://orcid.org/0000-0003-3192-0080) (Knowledge Hub Editorial Board) |
@@ -60,7 +54,3 @@ Since 2020, PDWG has engaged close to 200 individuals from over 50 institutions.
 | University of St. Thomas, St. Paul, MN | [Thomas Hickson](https://orcid.org/0000-0002-7878-3565) |
 | University of Wisconsin Geology Museum (UWGM) | [Carrie Eaton](https://orcid.org/0000-0001-6647-1751) |
 | Yale Peabody Museum (YPM) | [Jessica Utrup](https://orcid.org/0000-0001-5201-8235) |
-
-### What is the logo??
-
-The PDWG logo, the trilocorn (i.e. a trilobite + a unicorn), is our working group mascot. The trilocorn lives and thrives in our souls, encouraging us to be the best data and collections managers we can be. Consider the trilocorn as the [patronus](https://en.wikipedia.org/wiki/Fictional_universe_of_Harry_Potter#Patronuses) of paleo collections, protecting against the slippery slope of data chaos.
