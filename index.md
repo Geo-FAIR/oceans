@@ -3,7 +3,7 @@ title: Paleo Data Knowledge Hub
 layout: splash
 header:
   overlay_image: /assets/images/geofair-ocean-header.jpg
-  [//]: # overlay_filter: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3))
+    overlay_filter: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3))
   caption: "Christian Palmer / Unsplash"
   #actions:
   #  - label: "More Info"
@@ -43,30 +43,32 @@ feature_row:
 ---
 This website is hub designed to enable open access to information for anyone producing, managing, or publishing oceanographic data. Ideally, the hub facilitates ongoing engagement and continuous knowledge sharing across stakeholder communities, in particular by hosting resources that are broadly relevant, and even adaptable to domains beyond oceanography. All community users (e.g., you) are invited to engage as both information seekers and knowledge contributors. In the initial implementation of this knowledge hub (ongoing throughout 2026), content creation will focus deeply on the information needs of ocean data creators and managers, and intro-level on the needs of ocean researchers managing and publishing data.
 
-[//]: # {% capture now %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
-[//]: #{% assign upcoming = "" | split: "" %}
-[//]: #{% assign items = site.data["pdwg-happy-hours"] | sort: "date" %}
-[//]: #{% for item in items %}
-[//]: #  {% capture then %}{{ item.date | date: "%Y-%m-%d" }}{% endcapture %}
-[//]: #  {% if then >= now %}
-[//]: #    {% assign item_ = item.date | append: ": " | append: item.title | split: "|" %}
-[//]: #   {% assign upcoming = upcoming | concat: item_ %}
-[//]: # {% endif %}
-[//]: #{% endfor %}
+{% comment %}
+{% capture now %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
+ {% assign upcoming = "" | split: "" %}
+ {% assign items = site.data["pdwg-happy-hours"] | sort: "date" %}
+ {% for item in items %}
+   {% capture then %}{{ item.date | date: "%Y-%m-%d" }}{% endcapture %}
+   {% if then >= now %}
+     {% assign item_ = item.date | append: ": " | append: item.title | split: "|" %}
+    {% assign upcoming = upcoming | concat: item_ %}
+  {% endif %}
+ {% endfor %}
 
-[//]: # {% assign size = upcoming | size %}
-[//]: # {% if size > 0 %}
-[//]: #   <div class="notice upcoming">
-[//]: #     <strong>Upcoming "Happy Hour" meetings</strong>
-[//]: #     <ul>
-[//]: #     {% assign idx = 0 %}
-[//]: #     {% for item in upcoming %}
-[//]: #       <li{% if idx > 2 %} class="hidden"{% endif %} data-date="{{ item | slice: 0, 10}}">{{ item }}</li>
-[//]: #       {% assign idx = idx | plus: 1 %}
-[//]: #     {% endfor %}
-[//]: #     </ul>
-[//]: #     <p>Happy Hours are biweekly meetings of the Paleo Data Working Group that take place every other Thursday at 12:00pm Eastern Time. [//]: # Please see the <a href="{{ '/community/pdwg-happy-hours' | relative_url }}">happy hour page</a> for details about how to attend.</p>
-[//]: #   </div>
-[//]: # {% endif %}
+  {% assign size = upcoming | size %}
+  {% if size > 0 %}
+    <div class="notice upcoming">
+      <strong>Upcoming "Happy Hour" meetings</strong>
+      <ul>
+      {% assign idx = 0 %}
+      {% for item in upcoming %}
+        <li{% if idx > 2 %} class="hidden"{% endif %} data-date="{{ item | slice: 0, 10}}">{{ item }}</li>
+        {% assign idx = idx | plus: 1 %}
+      {% endfor %}
+      </ul>
+      <p>Happy Hours are biweekly meetings of the Paleo Data Working Group that take place every other Thursday at 12:00pm Eastern Time.   Please see the <a href="{{ '/community/pdwg-happy-hours' | relative_url }}">happy hour page</a> for details about how to attend.</p>
+    </div>
+  {% endif %}
 
 {% include feature_row %}
+{% comment %}
