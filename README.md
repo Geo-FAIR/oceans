@@ -1,6 +1,6 @@
 # GeoFAIR Ocean Community
 
-This repository contains files for the [GeoFAIR Ocean Community]([updated site link here]) website, which is a [Jekyll](https://jekyllrb.com/) site hosted by [GitHub Pages](https://pages.github.com/) and using the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes). The repository was forked from the Paleo Data Working Group (https://paleo-data.github.io/knowledge-hub). 
+This repository contains files for the [GeoFAIR Ocean Community](https://geo-fair.github.io/oceans/) website, which is a [Jekyll](https://jekyllrb.com/) site hosted by [GitHub Pages](https://pages.github.com/) and using the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes). The repository was forked from the Paleo Data Working Group (https://paleo-data.github.io/knowledge-hub). 
 
 > [!IMPORTANT]  
 > _This readme describes the technical process for contributing, and is complemented by [this TBD description of the accompanying social process](), as well as [this TBD content style guide]()_.
